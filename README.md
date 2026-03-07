@@ -9,6 +9,9 @@ A Python CLI tool that allows users to:
 
 ## Example Output
 ├── backend
+
 │   ├── controllers
+
 │   └── routes
+
 └── utils
